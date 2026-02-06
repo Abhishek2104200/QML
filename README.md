@@ -20,7 +20,7 @@ It contains the primary research and implementation of:
 #### **Quantum Circuit Architecture**
 The model utilizes an advanced multi-qubit architecture featuring **Angle Embedding** and nested entanglement layers to map genomic features into the Hilbert space.
 
-![Quantum Circuit Diagram](image_c547a8.png)
+![Quantum Circuit Diagram](07992372-eb01-4fc4-b384-13d4a4e30f65.png)
 *Figure 1: The Variational Quantum Circuit (VQC) architecture used for feature processing.*
 
 ---
