@@ -43,11 +43,11 @@ We analyze the Hilbert space overlap and optimization landscapes to ensure model
 
 ### **1. Quantum Fidelity Surface**
 Analyzing the quantum embedding to ensure distinguishability between variants.
-![Quantum Fidelity](image_c547fc.png)
+![Quantum Fidelity](f125aa94-68d4-48ba-8f2f-518dff47dd66.png)
 
 ### **2. Loss Landscape Analysis**
 Visualizing the 3D loss landscape to understand the optimization "terrain."
-![Loss Landscape](image_c5481c.png)
+![Loss Landscape](9313fdbf-a2e0-4ee6-b6e6-23ec8e7b0c6f.png)
 
 ### **3. Accuracy Progression**
 This surface showcases how model accuracy evolves relative to weight optimization.
