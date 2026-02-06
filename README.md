@@ -51,7 +51,7 @@ Visualizing the 3D loss landscape to understand the optimization "terrain."
 
 ### **3. Accuracy Progression**
 This surface showcases how model accuracy evolves relative to weight optimization.
-![Accuracy Progression](image_c5483a.png)
+![Accuracy Progression](8016a0da-8ef4-4245-8a53-5d0354722717.png)
 
 ---
 
